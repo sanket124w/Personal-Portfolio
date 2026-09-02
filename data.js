@@ -65,25 +65,17 @@ const portfolioData = {
     {
       role: "Data Science Intern",
       company: "Shorat Innovations Private Limited",
-      duration: "1 Jan 2026 — [1 Feb 2026",
+      duration: "1 Jan 2026 — 1 Feb 2026",
       description: "Worked on data preprocessing, exploratory data analysis, machine learning workflows and Python-based data science tasks.",
       technologies: ["Python", "Pandas", "Scikit-learn", "Jupyter"]
     }
-    // Add more experiences here:
-    // {
-    //   role: "Your Role",
-    //   company: "Company Name",
-    //   duration: "Start — End",
-    //   description: "What you did.",
-    //   technologies: ["Tech1", "Tech2"]
-    // }
   ],
 
   // ── Projects ───────────────────────────────────────────────
   projects: [
     {
       name: "Stock Price Prediction",
-      description: "Built a machine-learning solution using Python and Linear Regression to predict the next days stock closing price from cleaned historical market data Implemented data preprocessing, Min-Max scaling, train test evaluation, and actual-vs-predicted visualizations to make model performance easy to interpret.",
+      description: "Built a machine-learning solution using Python and Linear Regression to predict the next days stock closing price from cleaned historical market data. Implemented data preprocessing, Min-Max scaling, train test evaluation, and actual-vs-predicted visualizations to make model performance easy to interpret.",
       technologies: ["Python", "Machine Learning", "Pandas"],
       github: "https://github.com/sanket124w/stock-prediction",
       demo: "https://stock-prediction-omega-liard.vercel.app/",
@@ -95,17 +87,8 @@ const portfolioData = {
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/sanket124w/Personal-Portfolio",
       demo: "https://sanket124w.github.io/Personal-Portfolio/",
-      image: "assets/portfolio.png"
-    },
-    {
-      name: "Project Name",
-      description: "A brief description of what this project does and the problem it solves.",
-      technologies: ["Python", "Deep Learning", "TensorFlow"],
-      github: "#",
-      demo: "#",
       image: null
     }
-    // Add more projects here
   ],
 
   // ── Education ──────────────────────────────────────────────
@@ -113,37 +96,21 @@ const portfolioData = {
     {
       degree: "BE — Artificial Intelligence & Data Science",
       institution: "Savitribai Phule Pune University (SPPU)",
-      college: "[Shri Chharatrapati Shivaji Maharaj College of Engineering Nepti, Ahilyanagar]",
+      college: "Shri Chhatrapati Shivaji Maharaj College of Engineering Nepti, Ahilyanagar",
       duration: "2023 — 2027",
-      grade: "[6.02]",
+      grade: "6.02 CGPA",
       description: "Studying core subjects in AI, Machine Learning, Data Science, and Computer Science fundamentals."
     }
-    // Add more education entries:
-    // {
-    //   degree: "HSC — Science",
-    //   institution: "[Board Name]",
-    //   college: "[School/College Name]",
-    //   duration: "2020 — 2022",
-    //   grade: "[Percentage / CGPA]",
-    //   description: ""
-    // }
   ],
 
   // ── Certifications ────────────────────────────────────────
   certifications: [
     {
-      name: "[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate]",
-      issuer: "[Oracle]",
-      date: "[January 4 2026]",
+      name: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+      issuer: "Oracle",
+      date: "January 4, 2026",
       link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=8DC0BDA50DB2A46C6F0DF0D4687F534E9EF03048A28C8DF263717CF26C8DBA70"
-    },
-    {
-      name: "[Certification Name]",
-      issuer: "[Issuing Organization]",
-      date: "[Date]",
-      link: "#"
     }
-    // Add more certifications here
   ],
 
   // ── Achievements ──────────────────────────────────────────

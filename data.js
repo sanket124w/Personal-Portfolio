@@ -14,7 +14,7 @@ const portfolioData = {
     github: "https://github.com/sanket124w",
     linkedin: "www.linkedin.com/in/sanket-waghmare-6277b7305",
     resumeLink: "assets/resume.pdf",
-    profileImage: "assets/profile.jpg"
+    profileImage: "assets/profile.jpeg"
   },
 
   // ── About Me ───────────────────────────────────────────────

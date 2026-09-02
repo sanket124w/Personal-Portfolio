@@ -51,7 +51,7 @@ const portfolioData = {
     {
       category: "Tools & Technologies",
       icon: "tool",
-      items: ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Streamlit"]
+      items: ["Git", "GitHub", "Jupyter Notebook", "VS Code"]
     },
     {
       category: "Databases",
@@ -90,12 +90,12 @@ const portfolioData = {
       image: null
     },
     {
-      name: "Project Name",
-      description: "A brief description of what this project does and the problem it solves.",
-      technologies: ["Python", "NLP", "Streamlit"],
-      github: "#",
-      demo: "#",
-      image: null
+      name: "Personal Portfolio",
+      description: "Built a responsive personal portfolio website with dark/light mode, smooth navigation, mobile-friendly design, and animated sections. It highlights my skills in HTML, CSS, and JavaScript through dynamic UI features such as theme persistence, scroll effects, and an interactive contact form.",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/sanket124w/Personal-Portfolio",
+      demo: "https://sanket124w.github.io/Personal-Portfolio/",
+      image: "assets/portfolio.png"
     },
     {
       name: "Project Name",
